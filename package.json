@@ -7,10 +7,7 @@
     "test": "npm start",
     "start" : "node start"
   },
-      "engines" : { 
-    "npm" : ">=8.0.0 <9.6.3",
-    "node" : ">=16.0.0 <17.0.0"
-  },
+      "engines" :{ npm: '>=8.0.0 <9.6.3', node: '>=16.0.0 <17.0.0' },
   "author": "bhushan, chandrashekhar",
   "license": "ISC",
   "dependencies": {
